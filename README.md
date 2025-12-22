@@ -1,2 +1,2 @@
 # college
-this website is made by .....
+this website is made by Adnan
